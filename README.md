@@ -54,7 +54,7 @@ openapi/swagger is served on [8080](http://localhost:8080/) on index page.
 ### frontend  (dir: stores-finder-frontend) 
 
 **project setup:**
-> npm install
+> npm install (use "sudo" if the NPM is being ran in Linux, to avoid possible permission denied issues)
 
 **build/compiles:**
 > npm build
